@@ -1,2 +1,3 @@
 Hello world! changes
 I changed this line
+And now I`ve changed 3`d line
